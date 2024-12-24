@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\bin\Debug\net8.0\DistinctIEqualityComparer.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\bin\Debug\net8.0\DistinctIEqualityComparer.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\bin\Debug\net8.0\DistinctIEqualityComparer.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\bin\Debug\net8.0\DistinctIEqualityComparer.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\bin\Debug\net8.0\DistinctIEqualityComparer.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\obj\Debug\net8.0\DistinctIEqualityComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\obj\Debug\net8.0\DistinctIEqualityComparer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\obj\Debug\net8.0\DistinctIEqualityComparer.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\obj\Debug\net8.0\DistinctIEqualityComparer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\obj\Debug\net8.0\DistinctIEqualityComparer.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\obj\Debug\net8.0\refint\DistinctIEqualityComparer.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\obj\Debug\net8.0\DistinctIEqualityComparer.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\obj\Debug\net8.0\DistinctIEqualityComparer.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctIEqualityComparer\obj\Debug\net8.0\ref\DistinctIEqualityComparer.dll

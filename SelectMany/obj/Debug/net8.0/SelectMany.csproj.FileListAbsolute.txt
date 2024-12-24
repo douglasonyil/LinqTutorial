@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\bin\Debug\net8.0\SelectMany.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\bin\Debug\net8.0\SelectMany.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\bin\Debug\net8.0\SelectMany.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\bin\Debug\net8.0\SelectMany.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\bin\Debug\net8.0\SelectMany.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\obj\Debug\net8.0\SelectMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\obj\Debug\net8.0\SelectMany.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\obj\Debug\net8.0\SelectMany.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\obj\Debug\net8.0\SelectMany.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\obj\Debug\net8.0\SelectMany.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\obj\Debug\net8.0\refint\SelectMany.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\obj\Debug\net8.0\SelectMany.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\obj\Debug\net8.0\SelectMany.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SelectMany\obj\Debug\net8.0\ref\SelectMany.dll

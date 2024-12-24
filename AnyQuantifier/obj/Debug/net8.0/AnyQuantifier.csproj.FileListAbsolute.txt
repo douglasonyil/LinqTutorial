@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\bin\Debug\net8.0\AnyQuantifier.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\bin\Debug\net8.0\AnyQuantifier.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\bin\Debug\net8.0\AnyQuantifier.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\bin\Debug\net8.0\AnyQuantifier.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\bin\Debug\net8.0\AnyQuantifier.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\obj\Debug\net8.0\AnyQuantifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\obj\Debug\net8.0\AnyQuantifier.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\obj\Debug\net8.0\AnyQuantifier.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\obj\Debug\net8.0\AnyQuantifier.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\obj\Debug\net8.0\AnyQuantifier.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\obj\Debug\net8.0\refint\AnyQuantifier.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\obj\Debug\net8.0\AnyQuantifier.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\obj\Debug\net8.0\AnyQuantifier.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AnyQuantifier\obj\Debug\net8.0\ref\AnyQuantifier.dll

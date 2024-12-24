@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\bin\Debug\net8.0\DistinctSet.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\bin\Debug\net8.0\DistinctSet.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\bin\Debug\net8.0\DistinctSet.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\bin\Debug\net8.0\DistinctSet.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\bin\Debug\net8.0\DistinctSet.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\obj\Debug\net8.0\DistinctSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\obj\Debug\net8.0\DistinctSet.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\obj\Debug\net8.0\DistinctSet.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\obj\Debug\net8.0\DistinctSet.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\obj\Debug\net8.0\DistinctSet.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\obj\Debug\net8.0\refint\DistinctSet.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\obj\Debug\net8.0\DistinctSet.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\obj\Debug\net8.0\DistinctSet.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\DistinctSet\obj\Debug\net8.0\ref\DistinctSet.dll

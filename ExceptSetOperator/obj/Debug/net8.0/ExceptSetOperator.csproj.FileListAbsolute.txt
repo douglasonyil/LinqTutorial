@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\bin\Debug\net8.0\ExceptSetOperator.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\bin\Debug\net8.0\ExceptSetOperator.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\bin\Debug\net8.0\ExceptSetOperator.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\bin\Debug\net8.0\ExceptSetOperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\bin\Debug\net8.0\ExceptSetOperator.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\obj\Debug\net8.0\ExceptSetOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\obj\Debug\net8.0\ExceptSetOperator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\obj\Debug\net8.0\ExceptSetOperator.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\obj\Debug\net8.0\ExceptSetOperator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\obj\Debug\net8.0\ExceptSetOperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\obj\Debug\net8.0\refint\ExceptSetOperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\obj\Debug\net8.0\ExceptSetOperator.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\obj\Debug\net8.0\ExceptSetOperator.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ExceptSetOperator\obj\Debug\net8.0\ref\ExceptSetOperator.dll

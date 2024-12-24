@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\bin\Debug\net8.0\FilterOperators.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\bin\Debug\net8.0\FilterOperators.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\bin\Debug\net8.0\FilterOperators.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\bin\Debug\net8.0\FilterOperators.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\bin\Debug\net8.0\FilterOperators.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\obj\Debug\net8.0\FilterOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\obj\Debug\net8.0\FilterOperators.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\obj\Debug\net8.0\FilterOperators.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\obj\Debug\net8.0\FilterOperators.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\obj\Debug\net8.0\FilterOperators.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\obj\Debug\net8.0\refint\FilterOperators.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\obj\Debug\net8.0\FilterOperators.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\obj\Debug\net8.0\FilterOperators.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\FilterOperators\obj\Debug\net8.0\ref\FilterOperators.dll

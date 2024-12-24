@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\bin\Debug\net8.0\OrderByOperator.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\bin\Debug\net8.0\OrderByOperator.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\bin\Debug\net8.0\OrderByOperator.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\bin\Debug\net8.0\OrderByOperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\bin\Debug\net8.0\OrderByOperator.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\obj\Debug\net8.0\OrderByOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\obj\Debug\net8.0\OrderByOperator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\obj\Debug\net8.0\OrderByOperator.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\obj\Debug\net8.0\OrderByOperator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\obj\Debug\net8.0\OrderByOperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\obj\Debug\net8.0\refint\OrderByOperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\obj\Debug\net8.0\OrderByOperator.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\obj\Debug\net8.0\OrderByOperator.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\OrderByOperator\obj\Debug\net8.0\ref\OrderByOperator.dll

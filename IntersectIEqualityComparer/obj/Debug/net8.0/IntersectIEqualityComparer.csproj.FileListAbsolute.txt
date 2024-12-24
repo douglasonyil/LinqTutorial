@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\bin\Debug\net8.0\IntersectIEqualityComparer.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\bin\Debug\net8.0\IntersectIEqualityComparer.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\bin\Debug\net8.0\IntersectIEqualityComparer.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\bin\Debug\net8.0\IntersectIEqualityComparer.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\bin\Debug\net8.0\IntersectIEqualityComparer.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\obj\Debug\net8.0\IntersectIEqualityComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\obj\Debug\net8.0\IntersectIEqualityComparer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\obj\Debug\net8.0\IntersectIEqualityComparer.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\obj\Debug\net8.0\IntersectIEqualityComparer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\obj\Debug\net8.0\IntersectIEqualityComparer.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\obj\Debug\net8.0\refint\IntersectIEqualityComparer.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\obj\Debug\net8.0\IntersectIEqualityComparer.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\obj\Debug\net8.0\IntersectIEqualityComparer.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectIEqualityComparer\obj\Debug\net8.0\ref\IntersectIEqualityComparer.dll

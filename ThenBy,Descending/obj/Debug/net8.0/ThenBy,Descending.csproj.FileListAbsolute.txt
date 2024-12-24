@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\bin\Debug\net8.0\ThenBy,Descending.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\bin\Debug\net8.0\ThenBy,Descending.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\bin\Debug\net8.0\ThenBy,Descending.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\bin\Debug\net8.0\ThenBy,Descending.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\bin\Debug\net8.0\ThenBy,Descending.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\obj\Debug\net8.0\ThenBy,Descending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\obj\Debug\net8.0\ThenBy,Descending.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\obj\Debug\net8.0\ThenBy,Descending.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\obj\Debug\net8.0\ThenBy,Descending.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\obj\Debug\net8.0\ThenBy,Descending.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\obj\Debug\net8.0\refint\ThenBy,Descending.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\obj\Debug\net8.0\ThenBy,Descending.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\obj\Debug\net8.0\ThenBy,Descending.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\ThenBy,Descending\obj\Debug\net8.0\ref\ThenBy,Descending.dll

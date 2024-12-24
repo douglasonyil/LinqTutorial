@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\bin\Debug\net8.0\SortOrderbyoperator.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\bin\Debug\net8.0\SortOrderbyoperator.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\bin\Debug\net8.0\SortOrderbyoperator.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\bin\Debug\net8.0\SortOrderbyoperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\bin\Debug\net8.0\SortOrderbyoperator.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\obj\Debug\net8.0\SortOrderbyoperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\obj\Debug\net8.0\SortOrderbyoperator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\obj\Debug\net8.0\SortOrderbyoperator.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\obj\Debug\net8.0\SortOrderbyoperator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\obj\Debug\net8.0\SortOrderbyoperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\obj\Debug\net8.0\refint\SortOrderbyoperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\obj\Debug\net8.0\SortOrderbyoperator.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\obj\Debug\net8.0\SortOrderbyoperator.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\SortOrderbyoperator\obj\Debug\net8.0\ref\SortOrderbyoperator.dll

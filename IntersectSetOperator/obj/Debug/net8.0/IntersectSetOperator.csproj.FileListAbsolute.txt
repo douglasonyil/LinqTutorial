@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\bin\Debug\net8.0\IntersectSetOperator.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\bin\Debug\net8.0\IntersectSetOperator.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\bin\Debug\net8.0\IntersectSetOperator.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\bin\Debug\net8.0\IntersectSetOperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\bin\Debug\net8.0\IntersectSetOperator.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\obj\Debug\net8.0\IntersectSetOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\obj\Debug\net8.0\IntersectSetOperator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\obj\Debug\net8.0\IntersectSetOperator.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\obj\Debug\net8.0\IntersectSetOperator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\obj\Debug\net8.0\IntersectSetOperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\obj\Debug\net8.0\refint\IntersectSetOperator.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\obj\Debug\net8.0\IntersectSetOperator.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\obj\Debug\net8.0\IntersectSetOperator.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\IntersectSetOperator\obj\Debug\net8.0\ref\IntersectSetOperator.dll

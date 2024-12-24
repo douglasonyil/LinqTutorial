@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\bin\Debug\net8.0\AllQuantifier.exe
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\bin\Debug\net8.0\AllQuantifier.deps.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\bin\Debug\net8.0\AllQuantifier.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\bin\Debug\net8.0\AllQuantifier.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\bin\Debug\net8.0\AllQuantifier.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\obj\Debug\net8.0\AllQuantifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\obj\Debug\net8.0\AllQuantifier.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\obj\Debug\net8.0\AllQuantifier.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\obj\Debug\net8.0\AllQuantifier.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\obj\Debug\net8.0\AllQuantifier.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\obj\Debug\net8.0\refint\AllQuantifier.dll
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\obj\Debug\net8.0\AllQuantifier.pdb
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\obj\Debug\net8.0\AllQuantifier.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\LINQ Tutorial\AllQuantifier\obj\Debug\net8.0\ref\AllQuantifier.dll
